@@ -8,7 +8,7 @@ class Player{
     string name;
     int x,y;
     public:
-    bool mvt(string ){
+    bool mvt(string st){
 
     }
 };
